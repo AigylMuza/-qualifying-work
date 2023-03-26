@@ -8,18 +8,7 @@
                 "title": " аксессуары",
                 "productAmount": 120,
                 "parent": {
-                    "id": 10526,
-                    "title": "Аксессуары для КОМПА",
-                    "productAmount": 1260,
-                    "parent": {
-                        "id": 10074,
-                        "title": "Компьютерная техника",
-                        "productAmount": 3244,
-                        "parent": {
-                            "id": 10020,
-                            "title": "Электроника для КОМПА",
-                            "productAmount": 59033,
-                            "parent": null
+                
                         }
                     }
                 }
