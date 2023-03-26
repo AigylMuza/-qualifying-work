@@ -9,7 +9,7 @@
                 "productAmount": 120,
                 "parent": {
                     "id": 10526,
-                    "title": "Аксессуары для компьютеров",
+                    "title": "Аксессуары для КОМПА",
                     "productAmount": 1260,
                     "parent": {
                         "id": 10074,
@@ -17,7 +17,7 @@
                         "productAmount": 3244,
                         "parent": {
                             "id": 10020,
-                            "title": "Электроника",
+                            "title": "Электроника для КОМПА",
                             "productAmount": 59033,
                             "parent": null
                         }
