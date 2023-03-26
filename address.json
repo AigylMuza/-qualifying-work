@@ -1,0 +1,26 @@
+{
+    "payload": {
+        "data": {
+            "id": 2097059,
+            "title": "планшет",
+            "category": {
+                "id": 13389,
+                "title": " аксессуары",
+                "productAmount": 120,
+                "parent": {
+                    "id": 10526,
+                    "title": "Аксессуары для компьютеров",
+                    "productAmount": 1260,
+                    "parent": {
+                        "id": 10074,
+                        "title": "Компьютерная техника",
+                        "productAmount": 3244,
+                        "parent": {
+                            "id": 10020,
+                            "title": "Электроника",
+                            "productAmount": 59033,
+                            "parent": null
+                        }
+                    }
+                }
+            },
