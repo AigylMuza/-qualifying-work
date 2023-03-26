@@ -1,13 +1,14 @@
 {
     "payload": {
         "data": {
-            "id": 2097059,
-            "title": "планшет",
-            "category": {
-                "id": 13389,
+            "id": 13389,
                 "title": " аксессуары",
                 "productAmount": 120,
                 "parent": {
+                    "id": 2097059,
+            "title": "планшет",
+            "category": {
+                
                 
                         }
                     }
